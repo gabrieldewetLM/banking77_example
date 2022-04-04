@@ -1,0 +1,5 @@
+!/resources
+/resources/*
+!/resources/*_example.json
+**/__pycache__
+.ipynb_checkpoints
